@@ -11,6 +11,7 @@
     <string name="start_onboarding">Start</string>
     <string name="onboarding_continue">Continue</string>
     <string name="button_logout">Log-out</string>
+    <string name="skip">skip</string>
     <string name="cancel">Cancel</string>
     <string name="accept">Accept</string>
     <string name="shoe_store_list">Shoe store list</string>
@@ -26,6 +27,15 @@
     <string name="button_log_in">Log-in</string>
     <string name="onboarding_tittle">Instructions</string>
     <string name="welcome_tittle">Welcome</string>
+    <string name="welcome_description">:) Don\'t give up. You can continue!</string>
     <string name="you_need_to_be_log_in">You need to be log-in</string>
     <string name="detail_shoe">Detail shoe</string>
+    <string name="slide_create_tittle">Create</string>
+    <string name="slide_details_tittle">Details</string>
+    <string name="slide_list_shoes_tittle">List of shoes</string>
+    <string name="slide_start_tittle">Let\'s go!</string>
+    <string name="slide_start_description">Here we go</string>
+    <string name="slide_list_shoes_description">You can browse faster on it</string>
+    <string name="slide_details_description">We can see details of each one</string>
+    <string name="slide_create_description">Create shoes easily, on simple steps</string>
 </resources>
